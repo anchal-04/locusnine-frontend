@@ -1,0 +1,24 @@
+.display {
+    width:32vw;
+}
+
+.tab {
+    padding-right: 60px;
+}
+
+.mat-flat-button.mat-primary {
+    background: #ffaf2a;
+    color: #fff;
+  }
+
+  .topic { 
+      padding-top: 20px;
+    font-family: Cabin-Regular, Cabin;
+    font-size: 38px;
+    font-weight: lighter;
+    fill: rgb(0, 0, 0);
+ }
+
+ .container {
+     padding-left: 30px;
+ }

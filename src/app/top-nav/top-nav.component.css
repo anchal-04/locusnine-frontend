@@ -1,0 +1,15 @@
+.mat-toolbar.mat-primary {
+    background: #282828;
+    color: #fff;
+  }
+.topic { 
+    font-family: Cabin-Regular, Cabin;
+    font-size: 18px;
+    font-weight: normal;
+    fill: #FFFFFF;
+ }
+.spacer {
+    flex: 1 1 auto;
+}
+
+
